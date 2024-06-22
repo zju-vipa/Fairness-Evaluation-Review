@@ -5,6 +5,10 @@ This repository contains the experimental code and the comprehensive survey pape
 In this work, we introduce a novel framework for thoroughly assessing the fairness of visual models.  Our framework extends existing evaluation methods by considering three key dimensions: Inter-Attribute, Inter-Class, and Intra-Class.  These dimensions measure the fairness level of attributes and classes both in relation to each other and internally within an application scenario.  We apply this framework to evaluate and analyze the fairness of various common computer vision models, providing guidance for subsequent fairness optimization efforts.
 ![avatar](framework.png)
 
+## Online Model Evaluation Platform
+
+Based on our survey and evaluation framework, we have developed an online model evaluation platform. You can access it at: [https://model-evaluation.vipazoo.com](https://model-evaluation.vipazoo.com).
+
 
 ## Surveyed Papers
 We have compiled some of the original papers on evaluating metrics in the table below. See the original article for details on the nature of each indicator.
